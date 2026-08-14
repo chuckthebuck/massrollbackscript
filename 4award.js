@@ -1,6 +1,6 @@
 /*
  * FourAwardHelper
- *
+ 
  * Notes:
  * - This is intentionally conservative in a few places where wikitext varies.
  * - The article creation date is auto-detected from the oldest non-redirect revision when possible,
